@@ -1,0 +1,6 @@
+print(bin(3))
+print(bin(5)+'korea')
+print(hex(255))
+print(format(3,'b'))
+print(format(200,'x'))
+print(int('0xcd',16))
