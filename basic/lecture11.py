@@ -22,3 +22,6 @@ ws = wb.active
 for i ,ele in enumerate(t):
     ws.cell(1, i+1, ele)
 wb.save('sameple.xlsx')
+
+#https://openpyxl.readthedocs.io/en/stable/index.html
+
